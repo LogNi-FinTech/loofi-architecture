@@ -29,12 +29,12 @@
 - Trade Finance & Treasury & Bond
 - Reconciliation & Balance Sheet & PnL
 - Event Processing, Async Processing, Message Queue
-- Cache Management
+- Cache 
 - Fraud Management
 - Cyber Security & Risk Management
 - Mobile App
 - Web App
-- Custome Support & Operation
+- Customer Support & Operation
 - Currency Exchange & Multi Currency Management
 - Insurance
 
