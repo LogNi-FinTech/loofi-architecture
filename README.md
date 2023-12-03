@@ -49,5 +49,8 @@
 - WealthTech
 - Lending/BNPL
 
-
+# Join community group
+https://www.linkedin.com/groups/14134418/
+# Contact
+Email: lognifintech@gmail.com
 
