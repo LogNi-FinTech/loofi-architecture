@@ -2,20 +2,20 @@
 <img width="1170" alt="image" src="https://github.com/LogNi-FinTech/loofi-architecture/assets/4682274/416ad740-336e-411d-a6aa-1da6d690b9ef">
 
 
-# Components (Building blocks/Micro Service/Service): 
+# Building Blocks (Micro Service/Service): 
 - Core Account/Wallet & Ledger System (Scalable ledger & balance and transaction management system for holding, receiving & sending money)
+- Customer KYC & Onboarding & Compliance Screening
+- Payment / Merchant System
+- Deposit/Savings/Group Savings
+- Credit/Lending/BNPL/Loan
 - Back Office/Administrative Operation
 - Card Management (Debit/Credit/Virtual)
 - Notification (OTP,SMS,Email,Push)
 - Loyalty, Refferral, Affiliate Management
 - Authentication & Authorization (Social Login & Biometric)
-- Payment / Merchant System
 - Open (Banking) API / B2B API (Connectivity)
 - Payment Gateway 
 - Third Party Integration service module
-- Customer KYC & Onboarding & Compliance Screening
-- Deposit/Savings/Group Savings
-- Credit/Lending/BNPL/Loan
 - Asset Management & portfolio & Asset Trading (Stock, Bond, Token)
 - Agent & Distribution Channel Management
 - Credit Scoring
@@ -34,7 +34,7 @@
 - Cyber Security & Risk Management
 - Mobile App
 - Web App
-- Custome Support and Operation
+- Custome Support & Operation
 - Currency Exchange & Multi Currency Management
 - Insurance
 
@@ -46,8 +46,8 @@
 - MFI/MFS
 - Payment Platform
 - Virtual Card
-- WealthTech (Asset Trading Platform) 
+- WealthTech
 - Lending/BNPL
-- Payment Processor
+
 
 
