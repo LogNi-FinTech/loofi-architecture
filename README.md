@@ -39,7 +39,7 @@
 - Insurance
 
 
-#Industries
+# Industries
 - Digital Wallet/e-wallet
 - Digital Bank
 - Neo Bank
