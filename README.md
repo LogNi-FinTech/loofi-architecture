@@ -1,4 +1,5 @@
 # FinTech (Digital Wallet, Digital Bank, Investment Platform) building blocks/ Architecture
+<img width="1170" alt="image" src="https://github.com/LogNi-FinTech/loofi-architecture/assets/4682274/416ad740-336e-411d-a6aa-1da6d690b9ef">
 
 
 # Components (Building blocks/Micro Service/Service): 
@@ -7,7 +8,7 @@
 - Card Management (Debit/Credit/Virtual)
 - Notification (OTP,SMS,Email,Push)
 - Loyalty, Refferral, Affiliate Management
-- Authentication & Authorization ( Social Login & Biometric)
+- Authentication & Authorization (Social Login & Biometric)
 - Payment / Merchant System
 - Open (Banking) API / B2B API (Connectivity)
 - Payment Gateway 
@@ -22,7 +23,7 @@
 - Recommendation & Personalization
 - Reporting & BI
 - MFA service
-- Cron or Schedule Job Management
+- Cron or Schedule Job Management/EOD/COB
 - Monitoring & Auditing & Loggin & observability
 - Tokenization (Asset & Card)
 - Trade Finance & Treasury & Bond
@@ -38,5 +39,15 @@
 - Insurance
 
 
+#Industries
+- Digital Wallet/e-wallet
+- Digital Bank
+- Neo Bank
+- MFI/MFS
+- Payment Platform
+- Virtual Card
+- WealthTech (Asset Trading Platform) 
+- Lending/BNPL
+- Payment Processor
 
 
