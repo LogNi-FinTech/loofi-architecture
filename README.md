@@ -49,7 +49,6 @@
 - WealthTech
 - Lending/BNPL
 
-Link: https://excalidraw.com/#json=ja094h0gW3SpFJduqXCMG,Ke1M1r4k8zClPCGY64XQ8Q
 
 # Join community group
 https://www.linkedin.com/groups/14134418/
