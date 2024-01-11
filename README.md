@@ -1,4 +1,4 @@
-# FinTech (Digital Wallet, Digital Bank, Investment Platform) building blocks/ Architecture
+# FinTech (Digital Wallet, Digital Bank, Investment Platform, Neo Bank) building blocks/ Architecture
 <img width="1170" alt="image" src="https://github.com/LogNi-FinTech/loofi-architecture/assets/4682274/416ad740-336e-411d-a6aa-1da6d690b9ef">
 
 
