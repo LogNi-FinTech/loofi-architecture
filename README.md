@@ -1,6 +1,8 @@
 # FinTech (Digital Wallet, Digital Bank, Investment Platform, Neo Bank) building blocks/ Architecture
 <img width="1170" alt="image" src="https://github.com/LogNi-FinTech/loofi-architecture/assets/4682274/416ad740-336e-411d-a6aa-1da6d690b9ef">
 
+# Individual service/block/mirco-service Architecture
+<img width="577" alt="image" src="https://github.com/LogNi-FinTech/loofi-architecture/assets/4682274/c91a5c0a-f109-4494-89bc-7099b62a0a2d">
 
 # Building Blocks (Micro Service/Service): 
 - Core Account/Wallet & Ledger System (Scalable ledger & balance and transaction management system for holding, receiving & sending money)
